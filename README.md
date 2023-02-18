@@ -22,7 +22,7 @@ pip install -r requirements.txt
 *The notebook contains detailed instructions and explanations of the code.*                             
 
 ## Data
-The data used in this project was provided by TARANVEER SINGH ANTTAL in (Kaggle)[https://www.kaggle.com/datasets/taranvee/smart-home-dataset-with-weather-information]
+The data used in this project was provided by TARANVEER SINGH ANTTAL in [Kaggle](https://www.kaggle.com/datasets/taranvee/smart-home-dataset-with-weather-information)
 
 ## Results                                                                 
 in progress
