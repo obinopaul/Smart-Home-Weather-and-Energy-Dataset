@@ -3,6 +3,19 @@
                                                                     
 This Github repository contains code and resources for a comprehensive Sensor Time-Series Analysis conducted on a Smart Home dataset, which includes information on weather and energy consumption. The analysis explores the relationship between different variables, including temperature, humidity, energy consumption, and weather conditions, to identify trends and patterns in the data.
 
+<p align="left">
+  <img src="Images/energy_02.png" alt="Alt text" width="500" height="300">
+</p>
+
+<p align="right">
+  <img src="Images/energy_07.png" alt="Alt text" width="500" height="300">
+</p>
+
+<p align="center">
+  <img src="Images/mean_energy_per_hour.png" alt="Alt text" width="500" height="300">
+</p>
+
+
 The repository includes pre-processed and cleaned data files, along with Python code used for exploratory data analysis, data visualization, feature engineering, and time-series forecasting. Additionally, the repository contains the final report and presentation summarizing the findings of the analysis, including recommendations for improving energy efficiency in smart homes.
 
 This project showcases the power of data analytics and machine learning in uncovering insights and driving actionable results in the field of smart homes and energy conservation. It provides a valuable resource for researchers and practitioners in this field, enabling them to build on the analysis and extend the work further.

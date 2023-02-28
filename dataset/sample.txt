@@ -1,1 +1,3 @@
-Run the code in the jupyter notebook in the following directory (notebooks/Sentiment Analysis .ipynb)
+Run the code in the jupyter notebook or download dataset from https://www.kaggle.com/datasets/taranvee/smart-home-dataset-with-weather-information 
+
+i haven't still figured out how to upload large datasets to github :(
